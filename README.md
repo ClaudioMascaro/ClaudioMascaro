@@ -7,7 +7,7 @@
 
 <!-- PRESENTATION -->
 
-## I'm a **Software Engineer at [Stone Co.](https://github.com/stone-payments)**
+## I'm a **Software Engineer at Asapcard**
 
 <!-- WEBSITE / YOUTUBE / BLOG (LINKS) -->
 
