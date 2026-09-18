@@ -16,12 +16,6 @@
 
 <!-- WORKING AREA -->
 
-<div align="justify">
-
-- 🔭 I'm currently working with anything that comes up, for real.  
-
-</div>
-
 <br>
 
 <div align=center>
