@@ -11,15 +11,14 @@
 
 <!-- WEBSITE / YOUTUBE / BLOG (LINKS) -->
 
-- **Website:** [mascaro.dev](https://mascaro.dev)
+- **Website:** [mascaro.app](https://mascaro.app)
+[Quanto Custa Pintar](https://quantocustapintar.com.br)
 
 <!-- WORKING AREA -->
 
 <div align="justify">
 
-- 🔭 I'm currently working with [Node.js](https://nodejs.org/en/), [TypeScript](https://www.typescriptlang.org/). [Go](https://go.dev/), [Apache Kafka](https://kafka.apache.org/), [AWS](https://aws.amazon.com/), [Kubernetes](https://kubernetes.io/), [Elasticsearch](https://www.elastic.co/guide/index.html)
-- 🌱 I'm currently learning [Next.js](https://nextjs.org/)
-- My interests: Linux, AWS, open source community, music and instruments, cooking, car mechanics and TV series.
+- 🔭 I'm currently working with anything that comes up, for real.  
 
 </div>
 
